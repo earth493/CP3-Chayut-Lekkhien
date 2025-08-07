@@ -1,8 +1,8 @@
 print("Your score generator")
-FE = input("Enter your Foundation English score: ")
-GB = input("Enter your General Business score: ")
-InCS = input("Enter your Introduction to Computer Systems score: ")
-CP = input("Enter your Computer Programming score: ")
+FE = 100
+GB = 90
+InCS = 89
+CP = 77
 
 print("--- Your Score ---")
 print("Foundation English score:", FE)
